@@ -1,0 +1,34 @@
+{
+  "categories": [
+    {
+      "id": 0,
+      "title": "All",
+      "isSelected": true
+    },
+    {
+      "id": 1,
+      "title": "Food",
+      "isSelected": false
+    },
+    {
+      "id": 2,
+      "title": "Snacks",
+      "isSelected": false
+    },
+    {
+      "id": 3,
+      "title": "Drinks",
+      "isSelected": false
+    },
+    {
+      "id": 4,
+      "title": "Food",
+      "isSelected": false
+    },
+    {
+      "id": 5,
+      "title": "Food",
+      "isSelected": false
+    }
+  ]
+}

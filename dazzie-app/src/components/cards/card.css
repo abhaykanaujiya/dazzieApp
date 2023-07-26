@@ -1,0 +1,33 @@
+.cardContainer {
+  width: 388px;
+  height: 252px;
+  border: 1px solid #dbd7f4;
+  border-radius: 8px;
+  padding: 10px;
+
+  .cardImage {
+    padding: 10px;
+    border: 1px solid lightgray;
+    background-color: grey;
+    /* width: 364px; */
+    height: 166px;
+    border-radius: 10px;
+  }
+}
+.cardInfo {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-left: 10px;
+  margin-top: 10px;
+
+  .dishName {
+    font-size: 16;
+    font-weight: 700;
+  }
+  .price {
+    font-size: 16px;
+    font-weight: 700;
+    color: #42bda1;
+  }
+}

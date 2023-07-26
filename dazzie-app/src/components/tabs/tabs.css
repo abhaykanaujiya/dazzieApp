@@ -1,0 +1,31 @@
+.tabsContainer {
+  position: fixed;
+  width: 89.4%;
+  background: white;
+  top: 26.8%;
+  /* width: 1264px; */
+
+  background: yellow;
+  align-items: center;
+  display: flex;
+  padding: 10.4px;
+}
+.tabsList {
+  /* flex-direction: row; */
+  /* padding-left: 20px; */
+  /* padding-right: 20px; */
+  width: 252px;
+  height: 39px;
+  display: block;
+  padding: 10px 23px;
+  background: #fff;
+  margin-right: 12px;
+  border-radius: 6px;
+  cursor: pointer;
+
+  .active {
+    /* background: #1c12db; */
+    color: #fff;
+    border-bottom: 2px solid #5541d7;
+  }
+}

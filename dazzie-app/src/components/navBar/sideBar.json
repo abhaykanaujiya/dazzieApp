@@ -1,0 +1,24 @@
+{
+  "sideBar": [
+    {
+      "id": 0,
+      "url": "Dashboard.svg"
+    },
+    {
+      "id": 1,
+      "url": "Analytics.svg"
+    },
+    {
+      "id": 2,
+      "url": ""
+    },
+    {
+      "id": 3,
+      "url": "Product.svg"
+    },
+    {
+      "id": 4,
+      "url": "Coupon.svg"
+    }
+  ]
+}

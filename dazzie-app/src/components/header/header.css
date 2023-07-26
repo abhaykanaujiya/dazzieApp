@@ -1,0 +1,63 @@
+.headerWrapper {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-top: 10px;
+  background: #ffffff;
+  border-bottom: 1px solid lightgray;
+  position: fixed;
+  top: 0;
+  right: 0;
+  left: 0;
+  z-index: 2;
+}
+.header {
+  display: flex;
+  align-items: center;
+}
+.logoParent {
+  padding: 5px;
+  background-color: lightgray;
+  border-radius: 10px;
+  margin-right: 10px;
+}
+.header-logo {
+  width: 40px;
+  height: 40px;
+}
+.customer-header {
+  display: flex;
+  align-items: center;
+  margin-right: 15px;
+}
+.notification-icon-parent {
+  margin-right: 15px;
+}
+.loggedin-user {
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  align-items: center;
+  gap: 10px;
+
+  .customer-icon {
+    width: 40px;
+    height: 41px;
+  }
+  .customer-name {
+    font-size: 16px;
+    font-weight: 600;
+  }
+  .header-customer-info {
+    font-size: 16px;
+    text-align: start;
+    src: url(../../assets//fonts/Mulish-SemiBold.ttf);
+    .designation {
+      font-size: 12px;
+
+      src: url(../../assets/fonts/Mulish-ExtraLight.ttf);
+    }
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "products_list": [
+    {
+      "type": "Food",
+      "products": [
+        {
+          "name": "Haka Noodles",
+          "price": 20,
+          "image": ""
+        },
+        {
+          "name": "Haka Noodles",
+          "price": 20,
+          "image": ""
+        },
+        {
+          "name": "Haka Noodles",
+          "price": 20,
+          "image": ""
+        },
+        {
+          "name": "Haka Noodles",
+          "price": 20,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "type": "Snacks",
+      "products": [
+        {
+          "name": "Haka Noodles",
+          "price": 20,
+          "image": ""
+        },
+        {
+          "name": "Haka Noodles",
+          "price": 20,
+          "image": ""
+        },
+        {
+          "name": "Haka Noodles",
+          "price": 20,
+          "image": ""
+        },
+        {
+          "name": "Haka Noodles",
+          "price": 20,
+          "image": ""
+        }
+      ]
+    },
+    {
+      "type": "Drinks",
+      "products": [
+        {
+          "name": "Haka Noodles",
+          "price": 20,
+          "image": ""
+        },
+        {
+          "name": "Haka Noodles",
+          "price": 20,
+          "image": ""
+        },
+        {
+          "name": "Haka Noodles",
+          "price": 20,
+          "image": ""
+        },
+        {
+          "name": "Haka Noodles",
+          "price": 20,
+          "image": ""
+        }
+      ]
+    }
+  ]
+}
