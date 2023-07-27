@@ -1,15 +1,14 @@
 .cardContainer {
-  width: 388px;
   height: 252px;
   border: 1px solid #dbd7f4;
   border-radius: 8px;
   padding: 10px;
-
+  margin-bottom: 15px;
   .cardImage {
-    padding: 10px;
-    border: 1px solid lightgray;
-    background-color: grey;
-    /* width: 364px; */
+    /* padding: 10px; */
+    /* border: 1px solid lightgray; */
+    /* background-color: grey;   */
+    width: 364px;
     height: 166px;
     border-radius: 10px;
   }
@@ -30,4 +29,10 @@
     font-weight: 700;
     color: #42bda1;
   }
+}
+.dishImage {
+  width: 100%;
+  height: 166px;
+  object-fit: cover;
+  border-radius: 10px;
 }

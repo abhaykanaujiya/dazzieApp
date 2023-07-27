@@ -1,11 +1,12 @@
 import React from "react";
 import "./card.css";
+import dish from "../../assets/dish.jpg"
 
-const Card = () => {
+const Card = (props) => {
   return (
     <div className="cardContainer">
       <div className="cardImage">
-        <img src="" alt="img" />
+        <img className="dishImage" src={dish} alt="img" />
       </div>
       <div className="cardInfo">
         <div className="dishName">name</div>

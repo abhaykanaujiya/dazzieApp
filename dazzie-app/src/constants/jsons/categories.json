@@ -12,22 +12,17 @@
     },
     {
       "id": 2,
-      "title": "Snacks",
-      "isSelected": false
-    },
-    {
-      "id": 3,
       "title": "Drinks",
       "isSelected": false
     },
     {
-      "id": 4,
-      "title": "Food",
+      "id": 3,
+      "title": "Snacks",
       "isSelected": false
     },
     {
-      "id": 5,
-      "title": "Food",
+      "id": 4,
+      "title": "Package",
       "isSelected": false
     }
   ]
