@@ -1,8 +1,11 @@
+.wrapper {
+  display: flex;
+  justify-content: space-evenly;
+  /* padding-top: 30px; */
+}
 .statusCardContainer {
   width: 292px;
-  /* height: 102px; */
   display: flex;
-  /* background: red; */
   justify-content: space-between;
   padding: 30px;
   align-items: center;

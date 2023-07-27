@@ -1,0 +1,52 @@
+{
+  "table_Items": [
+    {
+      "item": "Sashimi",
+      "quanlity": 30,
+      "revenue": 293.01,
+      "netProfit": 710.68
+    },
+    {
+      "item": "Unagi - Grilled Eel",
+      "quanlity": 30,
+      "revenue": 293.01,
+      "netProfit": 710.68
+    },
+    {
+      "item": "Soba - Buckwheat Noodles",
+      "quanlity": 30,
+      "revenue": 293.01,
+      "netProfit": 710.68
+    },
+    {
+      "item": "Onigiri - Rice Balls",
+      "quanlity": 30,
+      "revenue": 293.01,
+      "netProfit": 710.68
+    },
+    {
+      "item": "Sashimi",
+      "quanlity": 30,
+      "revenue": 293.01,
+      "netProfit": 710.68
+    },
+    {
+      "item": "Yakitori - Grilled Chicken",
+      "quanlity": 30,
+      "revenue": 293.01,
+      "netProfit": 710.68
+    },
+    {
+      "item": "Royal Milk Tea",
+      "quanlity": 30,
+      "revenue": 293.01,
+      "netProfit": 710.68
+    },
+    {
+      "item": "Flavored Soymilk Drinks",
+      "quanlity": 30,
+      "revenue": 293.01,
+      "netProfit": 710.68
+    }
+  ]
+}

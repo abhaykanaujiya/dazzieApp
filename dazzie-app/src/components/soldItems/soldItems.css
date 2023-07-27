@@ -1,0 +1,99 @@
+.soldItemContainer {
+  width: 400px;
+  height: 611px;
+  padding: 10px;
+  /* border: 1px solid; */
+  border-radius: 8px;
+  overflow: scroll;
+  .itemSoldFilter {
+    border-bottom: 1px solid lightgray;
+  }
+}
+.filterSection {
+  position: relative;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.itemSoldFilter {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 10px;
+  padding-left: 20px;
+  padding-right: 20px;
+}
+.itemList {
+}
+.textBox {
+  /* width: "200px";
+  height: "30px"; */
+  padding-left: 20px;
+  padding-right: 20px;
+  border: 2px solid #5541d7;
+  border-radius: 8px;
+  padding: 5px 20px 5px 20px;
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  color: #5541d7;
+  font-weight: 700;
+  font-size: 16px;
+}
+.filteredListContainer {
+  height: 120px;
+  border: 1px solid;
+  position: absolute;
+  width: 160px;
+  border-radius: 8px;
+  overflow: scroll;
+  overflow-x: hidden;
+  /* padding: 5px; */
+  display: flex;
+  flex-direction: column;
+}
+.itemSoldFilterTitle {
+  font-size: 16px;
+  font-weight: 700;
+}
+.filteredListText {
+  /* border-radius: 8px; */
+  background: #efefef;
+  padding: 10px;
+  border-bottom: 1px solid #cbcaca;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+
+.filteredItemListContainer {
+  height: 560px;
+  overflow: scroll;
+  overflow-x: hidden;
+}
+.filteredItemList {
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+}
+
+.itemImage {
+  width: 64px;
+  height: 40px;
+  border: 1px solid;
+  border-radius: 8px;
+  padding: 10px;
+}
+.filteredItemName {
+  width: 160px;
+  text-align: start;
+  font-size: 16px;
+  font-weight: 700;
+  padding: 10px;
+}
+
+.filteredItemTotalItem {
+  color: #92929d;
+  padding: 10px;
+}

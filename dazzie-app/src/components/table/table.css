@@ -1,0 +1,31 @@
+.table-container {
+  width: 100%;
+  text-align: left;
+  border-collapse: collapse;
+}
+
+.table-header {
+  width: 100%;
+
+  background-color: #f7f7fc;
+  height: 64px;
+}
+
+.tableList {
+  border-bottom: 1px solid #e1e1fb;
+  height: 64px;
+  stroke-width: 0.5px;
+  overflow: scroll;
+  overflow-x: hidden;
+}
+::-webkit-scrollbar {
+  display: none;
+}
+
+th {
+  padding: 10px;
+}
+
+td {
+  padding: 10px;
+}

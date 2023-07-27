@@ -1,5 +1,16 @@
-.wrapper {
+.analyticsWrapper {
   display: flex;
-  justify-content: space-evenly;
-  /* gap: 20px; */
+  justify-content: space-between;
+  padding: 20px;
+  margin-top: 20px;
+  background: #ffffff;
+  border-radius: 8px;
+}
+.analyticsTableContainer {
+  /* margin: 30px; */
+  width: 832px;
+  height: 622px;
+  /* border: 1px solid; */
+  border-radius: 8px;
+  padding: 10px;
 }

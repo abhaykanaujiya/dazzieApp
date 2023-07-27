@@ -3,27 +3,32 @@
     {
       "title": "",
       "icon_url": "",
-      "selected_icon_url": ""
+      "selected_icon_url": "/"
     },
     {
       "title": "",
       "icon_url": "",
-      "selected_icon_url": ""
+      "selected_icon_url": "/analytics"
     },
     {
       "title": "",
       "icon_url": "",
-      "selected_icon_url": ""
+      "selected_icon_url": "/customers"
     },
     {
       "title": "",
       "icon_url": "",
-      "selected_icon_url": ""
+      "selected_icon_url": "/products"
     },
     {
       "title": "",
       "icon_url": "",
-      "selected_icon_url": ""
+      "selected_icon_url": "/coupon"
+    },
+    {
+      "title": "",
+      "icon_url": "",
+      "selected_icon_url": "/employee"
     }
   ]
 }

@@ -1,0 +1,98 @@
+{
+  "scheduleList": [
+    {
+      "timing": "Shift 1 (06AM -12AM)",
+      "users": [
+        {
+          "name": "Brooklyn Simmons",
+          "image": "",
+          "role": "Admin",
+          "background": "#F1F1F6",
+          "color": "#9A9AB0"
+        },
+        {
+          "name": "Dianne Russell",
+          "image": "",
+          "role": "Cashier",
+          "background": "#D9F2EC",
+          "color": "#3CAA91"
+        },
+        {
+          "name": "Esther Howard",
+          "image": "",
+          "role": "chef",
+          "background": "#DBD7F4",
+          "color": "#2A23C2"
+        },
+        {
+          "name": "Jenny Wilson",
+          "image": "",
+          "role": "Waitress",
+          "background": "#DBD7F4",
+          "color": "#2A23C2"
+        },
+        {
+          "name": "Theresa Webb",
+          "image": "",
+          "role": "Dishwasher",
+          "background": "#F1F1F6",
+          "color": "#9A9AB0"
+        },
+        {
+          "name": "Ronald Richards",
+          "image": "",
+          "role": "Chef",
+          "background": "#FCE7CF",
+          "color": "#EEAF22"
+        }
+      ]
+    },
+    {
+      "timing": "Shift 1 (01PM -12PM) ",
+      "users": [
+        {
+          "name": "Brooklyn Simmons",
+          "image": "",
+          "role": "Admin",
+          "background": "#F1F1F6",
+          "color": "#9A9AB0"
+        },
+        {
+          "name": "Dianne Russell",
+          "image": "",
+          "role": "Cashier",
+          "background": "#D9F2EC",
+          "color": "#3CAA91"
+        },
+        {
+          "name": "Esther Howard",
+          "image": "",
+          "role": "chef",
+          "background": "#DBD7F4",
+          "color": "#2A23C2"
+        },
+        {
+          "name": "Jenny Wilson",
+          "image": "",
+          "role": "Waitress",
+          "background": "#DBD7F4",
+          "color": "#2A23C2"
+        },
+        {
+          "name": "Theresa Webb",
+          "image": "",
+          "role": "Dishwasher",
+          "background": "#F1F1F6",
+          "color": "#9A9AB0"
+        },
+        {
+          "name": "Ronald Richards",
+          "image": "",
+          "role": "Chef",
+          "background": "#FCE7CF",
+          "color": "#EEAF22"
+        }
+      ]
+    }
+  ]
+}

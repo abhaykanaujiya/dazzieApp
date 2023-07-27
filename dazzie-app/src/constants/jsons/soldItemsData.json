@@ -1,0 +1,50 @@
+{
+  "sold_Items": [
+    {
+      "url": "",
+      "name": "Sashimi",
+      "total_item": "430 Items"
+    },
+    {
+      "url": "",
+      "name": "Unagi - Grilled Eel",
+      "total_item": "200 Items"
+    },
+    {
+      "url": "",
+      "name": "Soba - Buckwheat Noodles",
+      "total_item": "280 Items"
+    },
+
+    {
+      "url": "",
+      "name": "Onigiri - Rice Balls",
+      "total_item": "120 Items"
+    },
+    {
+      "url": "",
+      "name": "Yakitori - Grilled Chicken",
+      "total_item": "80 Items"
+    },
+    {
+      "url": "",
+      "name": "Royal Milk Tea",
+      "total_item": "70 Items"
+    },
+    {
+      "url": "",
+      "name": "Sashimi",
+      "total_item": "30 Items"
+    },
+    {
+      "url": "",
+      "name": "Royal Milk Tea",
+      "total_item": "130 Items"
+    },
+    {
+      "url": "",
+      "name": "Onigiri - Rice Balls",
+      "total_item": "40 Items"
+    }
+  ]
+}
