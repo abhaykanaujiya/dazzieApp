@@ -1,0 +1,30 @@
+.employeeTableContainer {
+  /* margin: 30px; */
+  /* height: 622px; */
+  /* border: 1px solid; */
+  background: #ffffff;
+  /* border-radius: 8px; */
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+  padding: 10px;
+}
+.employeeSearchBarContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  background: #ffffff;
+  justify-content: space-between;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+  padding-top: 5px;
+}
+
+.employeeTitle {
+  font-size: 24px;
+  font-weight: 700;
+  margin: 20px 0px 20px 10px;
+}
+
+.more {
+  margin-right: 10px;
+}

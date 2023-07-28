@@ -1,25 +1,22 @@
 // import Data from "./sideBar.json";
 import Data from "../../constants/jsons/sidebar.json";
-import "./sideNavBar.css"
-import Dashboard from "../../assets/sideBarIcon/settings.svg"
+import "./sideNavBar.css";
+import Dashboard from "../../assets/sideBarIcon/settings.svg";
 import { NavLink } from "react-router-dom";
-
-
-
 
 const SideBar = () => {
   return (
     <div className="sideBarWrapper">
       <div>
         {Data.sidebar_items?.map((value, idx) => {
-          let path = '../../assets/sideBarIcon/' + value.selected_icon_url;
-
           let Diamond = require(`../../assets/sideBarIcon/${value.selected_icon_url}`);
-          return (<div className="sideBarContainer" key={idx}>
-            <NavLink to={value.icon_url}>
-              <img src={Diamond} alt="img" />
-            </NavLink>
-          </div>)
+          return (
+            <div className="sideBarContainer " key={idx}>
+              <NavLink to={value.icon_url}>
+                <img src={Diamond} alt="img" />
+              </NavLink>
+            </div>
+          );
         })}
       </div>
 
@@ -29,8 +26,7 @@ const SideBar = () => {
         </NavLink>
       </div>
     </div>
-
-  )
+  );
 };
 
 export default SideBar;

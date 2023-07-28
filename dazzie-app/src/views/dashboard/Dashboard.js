@@ -9,12 +9,13 @@ import { Route, Router } from 'react-router-dom'
 const Dashboard = () => {
   const [activeTab, setActiveTab] = useState(0);
   const [searchText, setSearchText] = useState("");
+  const[isDashboard,setDashBoard]=useState(true)
 
 
   return (
     <Layout>
       <div>
-        <SearchBar />
+        <SearchBar position={"fixed"} />
         <Tabs />
       </div>
 
