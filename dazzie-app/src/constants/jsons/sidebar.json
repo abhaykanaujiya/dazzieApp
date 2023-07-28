@@ -2,33 +2,33 @@
   "sidebar_items": [
     {
       "title": "",
-      "icon_url": "",
-      "selected_icon_url": "/"
+      "icon_url": "/",
+      "selected_icon_url": "Dashboard.svg"
     },
     {
       "title": "",
-      "icon_url": "",
-      "selected_icon_url": "/analytics"
+      "icon_url": "/analytics",
+      "selected_icon_url": "Analytics.svg"
     },
     {
       "title": "",
-      "icon_url": "",
-      "selected_icon_url": "/customers"
+      "icon_url": "/customers",
+      "selected_icon_url": "Customer.svg"
     },
     {
       "title": "",
-      "icon_url": "",
-      "selected_icon_url": "/products"
+      "icon_url": "/products",
+      "selected_icon_url": "Product.svg"
     },
     {
       "title": "",
-      "icon_url": "",
-      "selected_icon_url": "/coupon"
+      "icon_url": "/coupon",
+      "selected_icon_url": "Coupon.svg"
     },
     {
       "title": "",
-      "icon_url": "",
-      "selected_icon_url": "/employee"
+      "icon_url": "/employee",
+      "selected_icon_url": "Employee.svg"
     }
   ]
 }

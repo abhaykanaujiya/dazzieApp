@@ -4,6 +4,7 @@
   flex-direction: column;
   width: 112px;
   border-right: 1px solid lightgray;
+  justify-content: space-evenly;
   /* height: 722px; */
   /* justify-content: space-between; */
   position: fixed;
