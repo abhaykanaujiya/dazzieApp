@@ -12,10 +12,12 @@ export default function Analytics() {
     <Layout>
       <StatusCards />
       <div className="analyticsWrapper">
+
         <div className="analyticsTableContainer">
+
           <Table data={TableListData} heading={"Latest Order"} />
         </div>
-        <SoldItems data={soldItemsData } />
+        <SoldItems data={soldItemsData} />
       </div>
     </Layout>
   );
