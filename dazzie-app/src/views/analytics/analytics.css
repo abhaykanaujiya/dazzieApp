@@ -1,9 +1,8 @@
 .analyticsWrapper {
   display: flex;
   justify-content: space-between;
-  padding: 20px;
   margin-top: 20px;
-  background: #ffffff;
+  /* background: #ffffff; */
   border-radius: 8px;
 }
 .analyticsTableContainer {
@@ -11,6 +10,8 @@
   width: 832px;
   height: 622px;
   /* border: 1px solid; */
+  background: #ffffff;
+
   border-radius: 8px;
   padding: 10px;
 }

@@ -1,9 +1,9 @@
 import React from 'react'
 import "./table.css"
-const  Table=({data}) =>{
+const Table = ({ data, heading }) =>{
   return (
     <div className='tableWrapper' >
-      <div className='tableTitle'>Latest Order</div>
+      <div className='tableTitle'>{heading}</div>
       <table width={"100%"} className='table-container'>
         <tr className='table-header'>
           <th>No</th>

@@ -3,6 +3,7 @@
   height: 611px;
   padding: 10px;
   /* border: 1px solid; */
+  background-color: #fff;
   border-radius: 8px;
   overflow: scroll;
   .itemSoldFilter {

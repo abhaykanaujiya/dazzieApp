@@ -10,12 +10,11 @@ import soldItemsData from "../../constants/jsons/soldItemsData.json"
 export default function Employee() {
   return (
     <Layout>
-      <StatusCards />
+      Customer
+      {/* <StatusCards /> */}
       <div className="analyticsWrapper">
-        <div className="analyticsTableContainer">
           <Table data={TableListData} />
-        </div>
-        <SoldItems data={soldItemsData} />
+        {/* <SoldItems data={soldItemsData} /> */}
       </div>
     </Layout>
   );

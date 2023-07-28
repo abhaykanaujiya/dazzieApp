@@ -13,7 +13,7 @@ export default function Analytics() {
       <StatusCards />
       <div className="analyticsWrapper">
         <div className="analyticsTableContainer">
-          <Table data={TableListData} />
+          <Table data={TableListData} heading={"Latest Order"} />
         </div>
         <SoldItems data={soldItemsData } />
       </div>

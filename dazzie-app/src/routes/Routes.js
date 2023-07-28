@@ -16,7 +16,7 @@ const Router = createBrowserRouter([
     element: <Analytics />,
   },
   {
-    path: "/customers",
+    path: "/employee",
     element: <Customer />,
   },
   {
@@ -26,9 +26,9 @@ const Router = createBrowserRouter([
   {
     path: "/coupon",
     element: <Coupon />,
-  },
+  }, 
   {
-    path: "/employee",
+    path: "/customers",
     element: <Employee />,
   },
   {
